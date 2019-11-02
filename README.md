@@ -50,3 +50,23 @@ regenerated 2
 original 
 
 ![original](https://github.com/mokoker/Superz/blob/master/figures/16x2original.png)
+
+supermoviechunks notebook scales a full hd movie to a 4k movie. Here are 3 screens from blade runner model(selected ones with problems try to find them :))
+
+full hd image
+![bladerunner low](https://github.com/mokoker/Superz/blob/master/figures/330lo.jpg)
+
+4k upscaled image
+![bladerunner high](https://github.com/mokoker/Superz/blob/master/figures/330x.jpg)
+
+full hd image
+![bladerunner low](https://github.com/mokoker/Superz/blob/master/figures/379lo.jpg)
+
+4k upscaled image
+![bladerunner high](https://github.com/mokoker/Superz/blob/master/figures/379x.jpg)
+
+full hd image
+![bladerunner low](https://github.com/mokoker/Superz/blob/master/figures/409lo.jpg)
+
+4k upscaled image
+![bladerunner high](https://github.com/mokoker/Superz/blob/master/figures/409x.jpg)
