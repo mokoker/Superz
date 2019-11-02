@@ -74,5 +74,5 @@ full hd image
 full hd image
 ![bladerunner low](https://github.com/mokoker/Superz/blob/master/figures/1000lo.jpg)
 
-4k upscaled image i think this one is better than the original
+4k upscaled image i think this one is better than the original not just the resolution but also the colors
 ![bladerunner high](https://github.com/mokoker/Superz/blob/master/figures/1000x.jpg)
