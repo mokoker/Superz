@@ -1,4 +1,4 @@
-A repo for super resolution using basic neural networks.
+A repo for super resolution using basic neural networks. These models can upscale full hd movies to 4k(need to make them faster to run in real time)
 
 Super resoltion is an ill posed problem that doesn't have a unique answer a low resolution image(lr) can correspond to multiple high resolution(hr) images. Specially in over x4 resolution there are lots of lost information, many textures are lost, a gray are in a lr image can actually have a pattern there and it is imposible to know that information.
 
@@ -50,3 +50,29 @@ regenerated 2
 original 
 
 ![original](https://github.com/mokoker/Superz/blob/master/figures/16x2original.png)
+
+supermoviechunks notebook scales a full hd movie to a 4k movie. Here are 3 screens from blade runner model(selected ones with problems try to find them :))
+
+full hd image
+![bladerunner low](https://github.com/mokoker/Superz/blob/master/figures/330lo.jpg)
+
+4k upscaled image
+![bladerunner high](https://github.com/mokoker/Superz/blob/master/figures/330x.jpg)
+
+full hd image
+![bladerunner low](https://github.com/mokoker/Superz/blob/master/figures/379lo.jpg)
+
+4k upscaled image
+![bladerunner high](https://github.com/mokoker/Superz/blob/master/figures/379x.jpg)
+
+full hd image
+![bladerunner low](https://github.com/mokoker/Superz/blob/master/figures/409lo.jpg)
+
+4k upscaled image
+![bladerunner high](https://github.com/mokoker/Superz/blob/master/figures/409x.jpg)
+
+full hd image
+![bladerunner low](https://github.com/mokoker/Superz/blob/master/figures/1000lo.jpg)
+
+4k upscaled image i think this one is better than the original not just the resolution but also the colors
+![bladerunner high](https://github.com/mokoker/Superz/blob/master/figures/1000x.jpg)
