@@ -51,6 +51,7 @@ original
 
 ![original](https://github.com/mokoker/Superz/blob/master/figures/16x2original.png)
 
+![comparison](https://github.com/mokoker/Superz/blob/master/figures/low-hi.png)
 
 low res image
 ![jojo low](https://github.com/mokoker/Superz/blob/master/figures/15861lo.jpg)
