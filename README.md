@@ -58,6 +58,8 @@ low res image
 upscaled image
 ![jojo regen](https://github.com/mokoker/Superz/blob/master/figures/15861gen.jpg)
 
+high res original image
+![jojo regen](https://github.com/mokoker/Superz/blob/master/figures/15861hi.jpg)
 
 low res image
 ![jojo low](https://github.com/mokoker/Superz/blob/master/figures/15757lo.jpg)
@@ -65,7 +67,8 @@ low res image
 upscaled image
 ![jojo regen](https://github.com/mokoker/Superz/blob/master/figures/15757gen.jpg)
 
-
+hi res original image
+![jojo regen](https://github.com/mokoker/Superz/blob/master/figures/15757hi.jpg)
 
 supermoviechunks notebook scales a full hd movie to a 4k movie. Here are 3 screens from blade runner model(selected ones with problems try to find them :))
 
