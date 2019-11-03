@@ -52,11 +52,18 @@ original
 ![original](https://github.com/mokoker/Superz/blob/master/figures/16x2original.png)
 
 
-full hd image
+low res image
 ![jojo low](https://github.com/mokoker/Superz/blob/master/figures/15861lo.jpg)
 
-4k upscaled image
+upscaled image
 ![jojo regen](https://github.com/mokoker/Superz/blob/master/figures/15861gen.jpg)
+
+
+low res image
+![jojo low](https://github.com/mokoker/Superz/blob/master/figures/15757lo.jpg)
+
+upscaled image
+![jojo regen](https://github.com/mokoker/Superz/blob/master/figures/15757gen.jpg)
 
 
 
