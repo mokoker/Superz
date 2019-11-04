@@ -77,6 +77,16 @@ low res image
 upscaled image
 ![jojo regen](https://github.com/mokoker/Superz/blob/master/figures/15757gen.jpg)
 
+
+low res image
+![jojo low](https://github.com/mokoker/Superz/blob/master/figures/2713lo.jpg)
+
+upscaled image 16x
+![jojo regen](https://github.com/mokoker/Superz/blob/master/figures/2713gen.jpg)
+
+original image
+![jojo regen](https://github.com/mokoker/Superz/blob/master/figures/2713hi.jpg)
+
 hi res original image
 ![jojo regen](https://github.com/mokoker/Superz/blob/master/figures/15757hi.jpg)
 
