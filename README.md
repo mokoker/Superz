@@ -79,7 +79,7 @@ upscaled image
 
 
 low res image
-![jojo low](https://github.com/mokoker/Superz/blob/master/figures/2713lo.jpg)
+![jojo low](https://github.com/mokoker/Superz/blob/master/figures/2713lowupscaled.jpg)
 
 upscaled image 16x
 ![jojo regen](https://github.com/mokoker/Superz/blob/master/figures/2713gen.jpg)
