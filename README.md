@@ -1,6 +1,6 @@
 A repo for super resolution using basic neural networks. These models can upscale full hd movies to 4k(need to make them faster to run in real time)
 
-Super resoltion is an ill posed problem that doesn't have a unique answer a low resolution image(lr) can correspond to multiple high resolution(hr) images. Specially in over x4 resolution there are lots of lost information, many textures are lost, a gray are in a lr image can actually have a pattern there and it is imposible to know that information.
+Super resoltion is an ill posed problem that doesn't have a unique answer a low resolution image(lr) can correspond to multiple high resolution(hr) images. Specially in over x4 resolution there are lots of lost information, many textures are lost, many different textures can result to the same low resolution pattern.
 
 low resolution image
 
@@ -51,6 +51,7 @@ original
 
 ![original](https://github.com/mokoker/Superz/blob/master/figures/16x2original.png)
 
+![comparison](https://github.com/mokoker/Superz/blob/master/figures/low-hi.png)
 
 low res image
 ![jojo low](https://github.com/mokoker/Superz/blob/master/figures/15861lo.jpg)
