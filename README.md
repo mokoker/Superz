@@ -2,7 +2,12 @@ A repo for super resolution using basic neural networks. These models can upscal
 
 Super resoltion is an ill posed problem that doesn't have a unique answer a low resolution image(lr) can correspond to multiple high resolution(hr) images. Specially in over x4 resolution there are lots of lost information, many textures are lost, many different textures can result to the same low resolution pattern.
 
+
+16x super resolution
+
 ![comparison 16x](https://github.com/mokoker/Superz/blob/master/figures/16xcomp.png)
+
+4x super resolution
 
 ![comparison 4x](https://github.com/mokoker/Superz/blob/master/figures/low-hi.png)
 
